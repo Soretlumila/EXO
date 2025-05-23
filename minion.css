@@ -1,0 +1,27 @@
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(0, 0, 0);
+}
+td,
+th {
+  width: 30px;
+  height: 30px;
+  border: 1px solid darkgray;
+}
+.yellow {
+  background-color: rgb(134, 42, 161);
+}
+.grey {
+  background-color: grey;
+}
+.black {
+  background-color: black;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+
+.Violet{background-color: rgb(196, 96, 209);}
