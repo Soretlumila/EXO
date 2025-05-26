@@ -1,0 +1,26 @@
+header {
+  background-color: red;
+  color: white;
+  margin: 0%;
+  padding: 0%;
+  height: 40px;
+}
+
+
+body{
+  margin: 0%;
+  padding-left: 0%;
+}
+
+
+
+.inline-block-div{
+    display: inline-block;
+    width: 33%;
+}
+#bleu{
+    background-color: aqua;
+}
+
+#jaune{background-color: yellow;}
+#rouge{background-color: crimson;}
