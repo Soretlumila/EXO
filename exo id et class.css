@@ -1,0 +1,32 @@
+#intro {
+  color: blue;
+}
+
+#important {
+  background-color: chartreuse;
+}
+.note {
+  background-color: yellow;
+}
+.cta {
+  color: white;
+  background-color: aqua;
+  padding: 40px;
+}
+.info {
+  background-color: crimson;
+}
+#fromage{background-color: chocolate;}
+.carte{
+    border: solid purple 20px;
+    box-shadow: 10px 5px 15px red;
+    margin: 50px;
+}
+#accueil{
+    background: #edf5f3;
+background: linear-gradient(205deg, rgba(237, 245, 243, 1) 0%, rgba(10, 10, 10, 1) 100%);
+}
+.actif{
+    background-color: blueviolet;
+    padding: 1%;
+}

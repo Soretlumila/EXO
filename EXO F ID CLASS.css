@@ -1,0 +1,54 @@
+#Witness {
+  text-align: center;
+}
+#Witness-img {
+  margin: auto;
+  width: 300px;
+}
+
+#Witness-img img {
+  width: 100%;
+}
+body {
+  background: #020024;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(128, 86, 19, 1) 35%,
+    rgba(64, 112, 58, 1) 100%
+  );
+}
+
+.disciples {
+  width: 97%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+
+}
+#disciples {
+  text-align: center;
+}
+
+.disciples img {
+  width: 25%;
+  box-shadow: 1px 10px 10px 5px white;
+
+}
+.textdis{
+    display: flex;
+   align-items: center;
+}
+
+#calus{
+    color: purple;
+    text-shadow: purple 1px 0 10px;
+}
+#rhulk{
+    color: goldenrod;
+    text-shadow: rgb(102, 91, 47) 1px 0 10px;
+}
+#nezarec{
+    color: white;
+    text-shadow: rgb(194, 188, 167) 1px 0 10px;
+}
